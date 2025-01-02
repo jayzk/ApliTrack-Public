@@ -4,6 +4,8 @@ to their job applications in one comprehensive solution, keeping track of compon
 
 To create ApliTrack, the group followed the database design and implementation process from start to finish. First, an initial proposal and set of broad requirements was created to establish the purpose and general functionality of the web application. Then, an enhanced entity relationship diagram with 13 entities (EERD) was created to convey all components of the application, more clearly illustrating the information that would be stored in the database and the resulting functionality that could be reasonably expected. Once the EERD was complete, it was mapped to a relational model (RM) that more closely resembled the underlying database structure that is used in the back-end of the application.
 
+Note: This repository has been modified slightly so it can be presented publicly.
+
 ## Diagrams
 Diagrams used to plan and document this project can be found under the Documentation folder in this repo. The diagrams include:
 - Enhanced Entity Relationship Diagram
